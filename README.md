@@ -27,10 +27,16 @@ Pivot table
 Create Customer Table 
 
 IN 2nd File , Attached another excel file and some questions need to perform whenever approach data
-Q1- Lets check DATA is properly aligned 		
+Q1- Lets check DATA is properly aligned 
+
 Q2-Remove Duplicat Values 		
-Q3-Check if there is any Data  missing or misplaced 		
-Q4-Remove Dollar sign , it not suitable for graphs only int values colud be put in		
+
+Q3-Check if there is any Data  missing or misplaced 
+
+Q4-Remove Dollar sign , it not suitable for graphs only int values colud be put in	
+
 q5-Trim THE VALUES 		
-q6- check data is in proper format in column 		
+
+q6- check data is in proper format in column 	
+
 
